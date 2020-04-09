@@ -2,8 +2,11 @@
 PyQt5 + Qt Quick Controller2
 --------
 快速安装Mysql 5.6数据库，只需解压运行点击安装即可。绿色运行，方便迁移
+
+V2ray Windows 客户端 快速配置，链接导入，PAC、全局代理
 ## 功能
 - Mysql快速启动 / 密码修改，无需原始密码 / 快捷可视化配置
+- V2ray 客户端
 - Aria2 下载
 - 多语言热切换
 ## 技术栈
@@ -48,6 +51,9 @@ https://github.com/lzx8589561/ZTool/releases/download/V2.0.0/ZTool.7z
 ![预览图](preview/9.png)
 ![预览图](preview/10.png)
 ![预览图](preview/11.png)
+![预览图](preview/12.png)
+![预览图](preview/13.png)
+![预览图](preview/14.png)
 
 ### 1.0版本预览 源码到release下载
 ![预览图](preview/demo.gif)
